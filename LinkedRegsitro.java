@@ -15,12 +15,12 @@ public class LinkedRegsitro{
         do{
             do{
                 cont = 0;
-                System.out.println("PRESIONE 1 PARA AGREGAR UN ELEMENTO A LA LISTA  ");
-                System.out.println("PRESIONE 2 PARA ELIMINAR UN ELEMENTO DE LA LISTA ");
-                System.out.println("PRESIONE 3 PARA MOSTRAR LA LISTA ");
-                System.out.println("PRESIONE 4 PARA VERIFICAR SI SE ENCUENTRA EN LA LISTA");
-                System.out.println("PRESIONE 5 PARA REMPLAZAR UN ELEMENTO DE LA LISTA");
-                System.out.println("PRESIONE 6 PARA ORDENAR LA LISTA");
+                System.out.println("PRESIONE A PARA AGREGAR UN ELEMENTO A LA LISTA  ");
+                System.out.println("PRESIONE B PARA ELIMINAR UN ELEMENTO DE LA LISTA ");
+                System.out.println("PRESIONE C PARA MOSTRAR LA LISTA ");
+                System.out.println("PRESIONE D PARA VERIFICAR SI SE ENCUENTRA EN LA LISTA");
+                System.out.println("PRESIONE E PARA REMPLAZAR UN ELEMENTO DE LA LISTA");
+                System.out.println("PRESIONE F PARA ORDENAR LA LISTA");
                 System.out.print("eleccion: ");
                 menu=sc.nextInt();
                 switch(menu){
