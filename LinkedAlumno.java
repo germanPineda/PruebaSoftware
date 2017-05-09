@@ -17,6 +17,6 @@ class LinkedAlumno{
          for(int i = 0; i < 3; i++){
          suma = suma +(int) Calificaciones[i];
         }
-        return suma/3;
+        return suma/4;
     }
 }
